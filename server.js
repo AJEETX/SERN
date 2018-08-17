@@ -24,10 +24,10 @@ var server = app.listen(process.env.PORT || 5300, function () {
 
 //Initiallising connection string
 var dbConfig = {
-	user: "ajeet",
-	password: "P@ssw0rd",
-	server: "localhost\\SQLEXPRESS",
-	database: "PTEST"
+	user: "ajeet",	// fill your username
+	password: "P@ssw0rd", // fill your password
+	server: "localhost\\SQLEXPRESS", // fill your database server i.e ms-sql server
+	database: "nodeDB" // fill your database name 
 };
 
 //Function to connect to database and execute query
