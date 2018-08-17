@@ -1,0 +1,18 @@
+{
+  "name": "crud",
+  "version": "0.0.0",
+  "description": "<Description about your application>",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mssql": "^ 3.3.0",
+    "nodemon": "^1.18.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "azy <ajeetkumar@email.com>",
+  "devDependencies": {},
+  "license": "ISC"
+}

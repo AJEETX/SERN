@@ -1,0 +1,50 @@
+.App {
+  margin: auto;
+  width: 50%;
+}
+.myform{
+  width: 100%;
+  background-color: #dfe6e9;
+  border-radius: 5px;
+  padding: 20px;
+}
+.formField{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 50;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+.btn{
+  width: 20%;
+  background-color: #00b894;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.mylist{
+  list-style: none;
+}
+.listbtn
+{
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border-radius: 5px;
+  border: 1px solid #00b894;
+  margin: 6px 10px;
+  padding: 5px 10px;
+}
+pre{
+  background-color: #cfd3d3;
+  color: white;
+  width: 100%;
+  margin: 6px 10px;
+  padding: 15px 10px;
+}
+
